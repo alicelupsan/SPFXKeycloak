@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "sp-fx-keycloack-poc",
+    "libraryId": "b8ace9e7-e0a3-467f-9f7d-352380c08a73",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
